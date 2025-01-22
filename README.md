@@ -8,7 +8,6 @@ January 1 - 22, 2025
 4. Practical Continual Forgetting for Pre-trained Vision Models https://arxiv.org/pdf/2501.09705v1
 5. Multimodal LLMs Can Reason about Aesthetics in Zero-Shot https://arxiv.org/pdf/2501.09012v1
 
-==================================================================================================================
 
 
 
