@@ -1,4 +1,4 @@
-# Best-AI-Papers
+# Best-AI-Papers of 2025
 
 January 1 - 22, 2025
 
